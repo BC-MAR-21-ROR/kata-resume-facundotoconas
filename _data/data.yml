@@ -7,7 +7,7 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: Facundo Adrián Toconás # Nombre completo
+  name: Facundo Adrián Toconás
   tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
@@ -26,14 +26,11 @@ sidebar:
 
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
-    - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
-
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
-    - idiom: German
-      level: Colloquial
+    - idiom: English
+      level: Beginner # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
