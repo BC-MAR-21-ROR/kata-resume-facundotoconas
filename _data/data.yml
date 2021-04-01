@@ -57,35 +57,15 @@ career-profile:
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree: Licenciatura en Informatica
+    university: Universidad Nacional de Tucumán
+    time: 2017 Feb - current
     details: |
 
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
+  - degree: Programdor Universitario
+    university: Universidad Nacional de Tucumán
+    time: 2018 - current
     details: |
-      Unsupervised deep learning for automatic behavior analysis
-
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
@@ -126,22 +106,20 @@ skills:
 
   toolset:
     - name: Python
-      level: 20%
-
-    - name: PyTorch
       level: 40%
 
-    - name: Tensorflow
+    - name: Ruby
+      level: 40%
+
+    - name: Ruby on Rails
+      level: 40%
+
+    - name: C#
       level: 60%
 
-    - name: Caffe
-      level: 80%
-
-    - name: Matlab
-      level: 100%
-
-    - name: C/C++
+    - name: JavaScript
       level: 40%
+
 
 # NO MODIFICAR
 footer: >
